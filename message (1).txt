@@ -1,0 +1,312 @@
+<script src="/_next/static/chunks/7023-f99b8c1999bccc54.js" async></script>
+<script src="/_next/static/chunks/main-app-c39fedede3a4cfda.js" async></script>
+<script src="/_next/static/chunks/231-0b0ff17ccfe623c3.js" async></script>
+<script src="/_next/static/chunks/app/not-found-2bb67ac900ffb119.js" async></script>
+<script src="/_next/static/chunks/7963-ab1516be429d5fce.js" async></script>
+<script src="/_next/static/chunks/6882-00ed709e5a044872.js" async></script>
+<script src="/_next/static/chunks/3371-45cd79df0c3ccbfb.js" async></script>
+<script src="/_next/static/chunks/5816-3717baaaf0b420eb.js" async></script>
+<script src="/_next/static/chunks/8219-c0303b98acc8fa15.js" async></script>
+<script src="/_next/static/chunks/3574-a2bc614ecefb5a87.js" async></script>
+<script src="/_next/static/chunks/app/page-2d21a5f24f52ae33.js" async></script>
+<link href="https://assets.guns.lol/guns-solid.svg" rel="shortcut icon" />
+<meta name="theme-color" content="#573362" />
+<title>guns.lol | Home</title>
+<meta name="description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting." />
+<meta name="application-name" content="guns.lol" />
+<meta name="generator" content="guns.lol" />
+<meta property="og:title" content="guns.lol: Everything you want, right here." />
+<meta property="og:description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting." />
+<meta property="og:url" content="https://guns.lol" />
+<meta property="og:image" content="https://assets.guns.lol/guns_banner_embed.png" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="guns.lol: Everything you want, right here." />
+<meta name="twitter:description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting." />
+<meta name="twitter:image" content="https://assets.guns.lol/guns_banner_embed.png" />
+<link rel="shortcut icon" href="https://assets.guns.lol/guns-solid.svg" />
+<link rel="icon" href="https://assets.guns.lol/guns-solid.svg" />
+<link rel="apple-touch-icon" href="https://assets.guns.lol/guns-solid.svg" />
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@1&amp;f[]=array@400&amp;display=swap" rel="stylesheet" />
+<script src="/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js" nomodule></script>
+</head>
+<body>
+<div class="pageLayoutComponents_headerWrapper__PEl5_ false">
+    <div class="pageLayoutComponents_header__fG_oc false">
+        <div class="pageLayoutComponents_blurBackground__IPc1g absolute h-full w-full"></div>
+        <a href="/">
+            <div class="pageLayoutComponents_leftSideHeader__2XrWi">
+                <div class="pageLayoutComponents_logo__EjkW_">
+                    <img src="https://assets.guns.lol/guns_logo_no_background_cropped.png" alt />
+                    <h1>guns<span>.</span>lol</h1>
+                </div>
+            </div>
+        </a>
+        <div class="pageLayoutComponents_rightSideNav__xDeY3">
+            <a target="_blank" href="https://discord.gg/guns">Discord</a>
+            <a href="/pricing">Pricing</a>
+            <a href="/login">Login</a>
+            <a href="/register">Sign Up Free</a>
+        </div>
+        <div class="pageLayoutComponents_mobileMenuButton__isPqj">
+            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24">
+                <path d="M3,6H21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+                <path d="M3,12H21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+                <path d="M3,18H21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+            </svg>
+        </div>
+        <div class="pageLayoutComponents_mobileNavigation__MVxK2">
+            <div class="flex flex-col gap-[10px]">
+                <a target="_blank" href="https://discord.gg/guns">Discord</a>
+                <a href="/pricing">Pricing</a>
+            </div>
+            <div class="flex flex-col gap-[10px]">
+                <a href="/login">Login</a>
+                <a href="/register">Sign Up Free</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="landingPage_landingPage__bg2l6">
+    <div class="landingPage_heroWrapper__unxy2">
+        <img src="..." alt="Landing Page Hero Image" />
+    </div>
+</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charSet="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="preload" as="image" href="https://assets.guns.lol/guns_logo_no_background_cropped.png" />
+<link rel="preload" as="image" href="https://assets.guns.lol/gradient_background.png" />
+<link rel="preload" as="image" href="https://assets.guns.lol/dashboard.png" />
+<link rel="preload" as="image" href="https://assets.guns.lol/profile_showcase.png" />
+<link rel="stylesheet" href="/_next/static/css/d44f4cffd4380300.css" data-precedence="next" />
+<link rel="stylesheet" href="/_next/static/css/f8ed8267c3a8d15e.css" data-precedence="next" />
+<link rel="stylesheet" href="/_next/static/css/c655a3c39aa8135e.css" data-precedence="next" />
+<link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-a3b4a51111c9f1f2.js" />
+<script src="/_next/static/chunks/fd9d1056-31e1c1a3fdd56e55.js" async></script>
+<script src="/_next/static/chunks/7023-f99b8c1999bccc54.js" async></script>
+<script src="/_next/static/chunks/main-app-c39fedede3a4cfda.js" async></script>
+<script src="/_next/static/chunks/231-0b0ff17ccfe623c3.js" async></script>
+<script src="/_next/static/chunks/app/not-found-2bb67ac900ffb119.js" async></script>
+<script src="/_next/static/chunks/7963-ab1516be429d5fce.js" async></script>
+<script src="/_next/static/chunks/6882-00ed709e5a044872.js" async></script>
+<script src="/_next/static/chunks/3371-45cd79df0c3ccbfb.js" async></script>
+<script src="/_next/static/chunks/5816-3717baaaf0b420eb.js" async></script>
+<script src="/_next/static/chunks/8219-c0303b98acc8fa15.js" async></script>
+<script src="/_next/static/chunks/3574-a2bc614ecefb5a87.js" async></script>
+<script src="/_next/static/chunks/app/page-2d21a5f24f52ae33.js" async></script>
+<link href="https://assets.guns.lol/guns-solid.svg" rel="shortcut icon" />
+<meta name="theme-color" content="#573362" />
+<title>guns.lol | Home</title>
+<meta name="description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting." />
+<meta name="application-name" content="guns.lol" />
+<meta name="generator" content="guns.lol" />
+<meta property="og:title" content="guns.lol: Everything you want, right here." />
+<meta property="og:description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting." />
+<meta property="og:url" content="https://guns.lol" />
+<meta property="og:image" content="https://assets.guns.lol/guns_banner_embed.png" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="guns.lol: Everything you want, right here." />
+<meta name="twitter:description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting." />
+<meta name="twitter:image" content="https://assets.guns.lol/guns_banner_embed.png" />
+<link rel="shortcut icon" href="https://assets.guns.lol/guns-solid.svg" />
+<link rel="icon" href="https://assets.guns.lol/guns-solid.svg" />
+<link rel="apple-touch-icon" href="https://assets.guns.lol/guns-solid.svg" />
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@1&amp;f[]=array@400&amp;display=swap" rel="stylesheet" />
+<script src="/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js" noModule></script>
+</head>
+<body>
+<div class="pageLayoutComponents_headerWrapper__PEl5_ false">
+<div class="pageLayoutComponents_header__fG_oc false">
+<div class="pageLayoutComponents_blurBackground__IPc1g absolute h-full w-full"></div>
+<a href="/"><div class="pageLayoutComponents_leftSideHeader__2XrWi"><div class="pageLayoutComponents_logo__EjkW_"><img src="https://assets.guns.lol/guns_logo_no_background_cropped.png" alt /><h1>guns<span>.</span>lol</h1></div></div></a>
+<div class="pageLayoutComponents_rightSideNav__xDeY3">
+<a target="_blank" href="https://discord.gg/guns">Discord</a>
+<a href="/pricing">Pricing</a>
+<a href="/login">Login</a>
+<a href="/register">Sign Up Free</a>
+</div>
+<div class="pageLayoutComponents_mobileMenuButton__isPqj">
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24">
+<path d="M3,6H21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+<path d="M3,12H21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+<path d="M3,18H21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+</svg>
+</div>
+<div class="pageLayoutComponents_mobileNavigation__MVxK2">
+<div class="flex flex-col gap-[10px]">
+<a target="_blank" href="https://discord.gg/guns">Discord</a>
+<a href="/pricing">Pricing</a>
+</div>
+<div class="flex flex-col gap-[10px]">
+<a href="/login">Login</a>
+<a href="/register">Sign Up Free</a>
+</div>
+</div>
+</div>
+</div>
+<div class="landingPage_landingPage__bg2l6">
+<div class="landingPage_heroWrapper__unxy2">
+<img class="landingPage_gunsGradient__ciQdS" draggable="false" src="https://assets.guns.lol/gradient_background.png" alt />
+<div class="landingPage_heroContentWrapper__QJIV_ landingPage_elementAnimation__ZWrRR">
+<div class="landingPage_heroContent__bMbQp">
+<h1>Everything you want, right here.</h1>
+<p>guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting. Everything you need — right here.</p>
+</div>
+<div class="landingPage_heroButtons__RjWmN">
+<div class="landingPage_inputContainerWrapper__uz1Pw">
+<div class="landingPage_inputWrapperDiv__gYRU2 undefined">
+<span class="landingPage_inputWrapperSpan__fPb3C !absolute"><h1>guns.lol/</h1></span>
+<input autoCorrect="false" type="text" placeholder="username" class="landingPage_inputWrapperInput__dPAKy !pl-[83px]" value />
+</div>
+</div>
+<a class="landingPage_claimNow__sCAwZ pointer-events-none" href="/register?claim=">Claim Now</a>
+</div>
+</div>
+<div class="landingPage_heroShowcase__tvd02 landingPage_elementAnimation__ZWrRR">
+<img src="https://assets.guns.lol/dashboard.png" alt />
+<img src="https://assets.guns.lol/profile_showcase.png" alt />
+</div>
+</div>
+</div>
+<div style="opacity:0;transform:translateY(-80px) scale(0.8) translateZ(0)">
+<div class="landingPage_statisticsShowcase__N7jpz">
+<div class="landingPage_statisticsDescription__9AIOq">
+<h1>Over <span>190,000</span> people use guns.lol — What are you waiting for?</h1>
+<h3>Create feature-rich, customizable and modern bio pages, along with fast and secure file hosting, all with guns.lol</h3>
+<div class="landingPage_statisticBoxWrapper__0CxBG">
+<div class="landingPage_statisticBox__K0UHU">
+<div class="landingPage_boxWrapper__XdEPT">
+<h1>6,800,000+</h1>
+<span>Profile Views</span>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+<path fill="currentColor" d="M12 9a3 3 0
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guns.lol Pricing and FAQs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Main content -->
+    <main>
+        <!-- Pricing section -->
+        <section id="pricing">
+            <h2>Pricing Plans</h2>
+
+            <!-- Free Plan -->
+            <div class="plan" id="free-plan">
+                <h3>Free Plan</h3>
+                <p><strong>Price:</strong> 0€ / Lifetime</p>
+                <p><strong>Description:</strong> For beginners, link all your socials in one place.</p>
+                <ul>
+                    <li>Basic Customization</li>
+                    <li>Basic Effects</li>
+                    <li>Add Your Socials</li>
+                </ul>
+                <a href="#" class="btn">Get Started</a>
+            </div>
+
+            <!-- Premium Plan -->
+            <div class="plan" id="premium-plan">
+                <h3>Premium Plan</h3>
+                <p><strong>Price:</strong> 5.99€ / Lifetime</p>
+                <p><strong>Description:</strong> The perfect plan to discover your creativity & unlock more features.</p>
+                <ul>
+                    <li>Exclusive Badge</li>
+                    <li>Profile Layouts</li>
+                    <li>Profile Fonts</li>
+                    <li>Typewriter Animation</li>
+                    <li>Advanced Customization</li>
+                </ul>
+                <a href="#" class="btn">Learn More</a>
+                <p><strong>Most Popular</strong></p>
+            </div>
+        </section>
+
+        <!-- FAQ section -->
+        <section id="faq">
+            <h2>Frequently Asked Questions</h2>
+            <dl>
+                <dt>What is guns.lol?</dt>
+                <dd>Guns.lol is a platform that provides modern and feature-rich bio links, as well as secure file hosting services.</dd>
+
+                <dt>Is guns.lol free to use?</dt>
+                <dd>Yes, guns.lol is completely free to use. However, we also offer a Premium package with exclusive features.</dd>
+
+                <dt>What can I do with guns.lol?</dt>
+                <dd>With guns.lol, you can connect all your social media links in one place, making it easier to share your online presence with others.</dd>
+
+                <dt>Is guns.lol safe to use?</dt>
+                <dd>Absolutely. We’ve earned the trust of over 190,000 users who rely on us to manage their online presence securely.</dd>
+
+                <dt>How long does it take to set up a guns.lol profile?</dt>
+                <dd>Setting up your guns.lol profile is quick and easy. Simply create an account and start customizing your profile immediately.</dd>
+            </dl>
+        </section>
+
+        <!-- Community section -->
+        <section id="community">
+            <h2>Join the Community</h2>
+            <p>Join over 190,000+ people using guns.lol and become part of our large community.</p>
+            <a href="#" class="btn">Claim your username</a>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <img src="logo.png" alt="Guns.lol Logo">
+            <p>Guns.lol - Create feature-rich, customizable, and modern bio pages with guns.lol.</p>
+            <p>© 2024 guns.lol - All Rights Reserved.</p>
+            <ul>
+                <li><a href="#">Login</a></li>
+                <li><a href="#">Sign Up</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="mailto:support@example.com">Support</a></li>
+                <li><a href="https://discord.gg/guns">Discord Server</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#573362">
+    <meta name="description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting.">
+    <meta name="application-name" content="guns.lol">
+    <meta name="generator" content="guns.lol">
+    <meta property="og:title" content="guns.lol: Everything you want, right here.">
+    <meta property="og:description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting.">
+    <meta property="og:url" content="https://guns.lol">
+    <meta property="og:image" content="https://assets.guns.lol/guns_banner_embed.png">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="guns.lol: Everything you want, right here.">
+    <meta name="twitter:description" content="guns.lol is your go-to for modern, feature-rich biolinks and fast, secure file hosting.">
+    <meta name="twitter:image" content="https://assets.guns.lol/guns_banner_embed.png">
+    <link rel="shortcut icon" href="https://assets.guns.lol/guns-solid.svg">
+    <link rel="icon" href="https://assets.guns.lol/guns-solid.svg">
+    <link rel="apple-touch-icon" href="https://assets.guns.lol/guns-solid.svg">
+    <link rel="stylesheet" href="/_next/static/css/f8ed8267c3a8d15e.css" crossOrigin="anonymous">
+    <link rel="stylesheet" href="/_next/static/css/c655a3c39aa8135e.css" crossOrigin="anonymous">
+    <title>guns.lol | Home</title>
+</head>
+<body>
+    <!-- Body content here -->
+
+    <!-- Scripts -->
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8bcfca174b94b73b","serverTiming":{"name":{"cfL4":true}},"version":"2024.8.0","token":"2fe24d772b4146c9a06db032d45156c9"}' crossorigin="anonymous"></script>
+</body>
+</html>
